@@ -1,6 +1,4 @@
 import psycopg2
-
-
 conexion = psycopg2.connect(
     user = 'postgres',
     password='91021663366',
