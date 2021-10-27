@@ -58,11 +58,11 @@ if __name__ == "__main__":
     conexion_2=Conexion.obtenerConexion()
     Conexion.liberarConexion(conexion_2)
 
-    conexion_3=Conexion.obtenerConexion()
-    Conexion.liberarConexion(conexion_3)
+    # conexion_3=Conexion.obtenerConexion()
+    # Conexion.liberarConexion(conexion_3)
 
-    conexion_4=Conexion.obtenerConexion()
-    Conexion.liberarConexion(conexion_4)
+    # conexion_4=Conexion.obtenerConexion()
+    # Conexion.liberarConexion(conexion_4)
 
-    conexion_5=Conexion.obtenerConexion()
-    Conexion.liberarConexion(conexion_5)
+    # conexion_5=Conexion.obtenerConexion()
+    # Conexion.liberarConexion(conexion_5)
