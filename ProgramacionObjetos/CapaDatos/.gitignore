@@ -1,6 +1,7 @@
 #Carpetas
 
 /env
+/_pycache_
 
 #archivos
 capa_datos.log

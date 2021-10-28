@@ -9,6 +9,7 @@ log.basicConfig(level=log.DEBUG,
                     log.StreamHandler()                
                 ])   
 
+# Se puede cambiar la configuracion level=log.INFO para que no muestre toda la ejecucion del programa
 #pruebas
 if __name__=="__main__":
     log.debug('Mensaje a nivel DEBUG')

@@ -1,7 +1,7 @@
 #Archivos a ignorar para que no se suban al git
 #Carpetas
 /env
-
+/_pycache_
 #Archivos
 readme.txt
 capa_datos.log

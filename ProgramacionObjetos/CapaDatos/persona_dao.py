@@ -63,7 +63,7 @@ if __name__ == '__main__':
     # log.debug(f"persona actualizadas {personas_actualiadas}")
 
     #Eliminar registro
-    persona_1=Persona(id_persona=51)
+    persona_1=Persona(id_persona=5)
     persona_eliminadas=PersonaDao.eliminar(persona_1)
     log.debug(f"Personas eliminadas: {persona_eliminadas}")
 
