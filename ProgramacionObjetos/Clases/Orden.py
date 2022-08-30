@@ -35,3 +35,6 @@ if __name__ == "__main__":
     print(orden_1)
     orden_2=Orden(producto_lista_1)
     print(orden_2)
+
+    print(f"Total de productos orden 1: {orden_1.calcular_total()}")
+    print(f"Total de productos orden 2: {orden_2.calcular_total()}")

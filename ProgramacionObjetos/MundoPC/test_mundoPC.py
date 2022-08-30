@@ -40,7 +40,7 @@ orden_2=Orden(computadora_lista_2)
 print(orden_2)
 
 #Metodo agregar computadora
-    #Crear los objetos 
+#Crear los objetos 
 teclado_4=Teclado("Bluetooth","Gamer")
 raton_4=Raton("Bluetooth", "Gamer-Legion")
 monitor_4=Monitor("Gamer_Lenovo",17)
